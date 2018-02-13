@@ -25,7 +25,7 @@ int main()
     descen1000.csv	ascen1000.csv	rand1000.csv
     descen10000.csv ascen10000.csv	rand10000.csv
   */
-	readFlights("test.txt");
+	readFlights("C:\Users\Nick\Documents\GitHub\221-PA2\rand10.csv");
   /*
     then use each of the sorting functions on each of the generated vectors
   */
